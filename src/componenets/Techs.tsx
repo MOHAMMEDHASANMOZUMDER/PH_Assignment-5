@@ -1,5 +1,6 @@
-import React, { use, useState } from "react";
 import { ToastContainer, toast } from "react-toastify";
+import {use} from "react";
+import { useState } from "react";
 import "react-toastify/dist/ReactToastify.css";
 interface Technology {
   id: string;
